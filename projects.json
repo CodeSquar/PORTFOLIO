@@ -4,6 +4,7 @@
             "title": "Cyberpunk page design",
             "tag": "html, css",
             "image": "cyberpunkpage.jpg"
+          
         },
         {
             "title": "POKEFIND",
@@ -18,17 +19,20 @@
         {
             "title": "NOTREAL",
             "tag": "html, css",
-            "image": "Frame 1notreal (1).png"
+            "image": "Frame 1notreal (1).png",
+            "url":"https://lautixon.github.io/NOT-REAL/"
         },
         {
             "title": "Duki's landing page",
             "tag": "html, css",
-            "image": "127.0.0.1_5501_dukipage_duki.html(1920) (4).jpg"
+            "image": "127.0.0.1_5501_dukipage_duki.html(1920) (4).jpg" , 
+            "url":"https://lautixon.github.io/Duki-landing-page/"
         },
         {
             "title": "music page",
             "tag": "html, css, js",
-            "image": "127.0.0.1_5501_MusicStaticWeb_index.html(1920) (1).png"
+            "image": "127.0.0.1_5501_MusicStaticWeb_index.html(1920) (1).png",
+            "url":"https://lautixon.github.io/Music-Web/"
         },
          {
             "title": "pylogg design",
