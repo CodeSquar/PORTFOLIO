@@ -13,7 +13,7 @@ fetch('projects.json')
               <h3 class="project_title">${project.title}</h3>
               <h4 class="project_tag">${project.tag}</h4>
           </div>
-          <a class="project_link">Ver demo<div class="project_link_bganim"></div></a>
+          <a href="${project.url}" class="project_link">Ver demo<div class="project_link_bganim"></div></a>
       </div>
   </div>
       `
