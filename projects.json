@@ -39,5 +39,11 @@
             "tag": "html, css",
             "image": "127.0.0.1_5501_PyLogger_index.html(1920).png"
         }
+        ,
+         {
+            "title": "Voceo",
+            "tag": "react, external api, css",
+            "image": "voceoApp.png"
+        }
     ]
 }
