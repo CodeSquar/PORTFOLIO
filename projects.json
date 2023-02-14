@@ -1,10 +1,9 @@
 {
     "projects": [
         {
-            "title": "Cyberpunk page design",
-            "tag": "html, css",
-            "image": "cyberpunkpage.jpg"
-          
+            "title": "Voceo",
+            "tag": "react, external api, css",
+            "image": "voceoApp.png"
         },
         {
             "title": "POKEFIND",
@@ -12,15 +11,10 @@
             "image": "pokefind.png"
         },
         {
-            "title": "NFT PAGE",
-            "tag": "html, css",
-            "image": "127.0.0.1_5501_NFTPAGE_index.html(1920).jpg"
-        },
-        {
-            "title": "NOTREAL",
-            "tag": "html, css",
-            "image": "Frame 1notreal (1).png",
-            "url":"https://lautixon.github.io/NOT-REAL/"
+            "title": "music page",
+            "tag": "html, css, js",
+            "image": "127.0.0.1_5501_MusicStaticWeb_index.html(1920) (1).png",
+            "url":"https://lautixon.github.io/Music-Web/"
         },
         {
             "title": "Duki's landing page",
@@ -29,21 +23,26 @@
             "url":"https://lautixon.github.io/Duki-landing-page/"
         },
         {
-            "title": "music page",
-            "tag": "html, css, js",
-            "image": "127.0.0.1_5501_MusicStaticWeb_index.html(1920) (1).png",
-            "url":"https://lautixon.github.io/Music-Web/"
+            "title": "Cyberpunk page design",
+            "tag": "html, css",
+            "image": "cyberpunkpage.jpg"
+          
         },
-         {
+        {
+            "title": "NFT PAGE",
+            "tag": "html, css",
+            "image": "127.0.0.1_5501_NFTPAGE_index.html(1920).jpg"
+        },
+        {
             "title": "pylogg design",
             "tag": "html, css",
             "image": "127.0.0.1_5501_PyLogger_index.html(1920).png"
-        }
-        ,
-         {
-            "title": "Voceo",
-            "tag": "react, external api, css",
-            "image": "voceoApp.png"
+        },
+        {
+            "title": "NOTREAL",
+            "tag": "html, css",
+            "image": "Frame 1notreal (1).png",
+            "url":"https://lautixon.github.io/NOT-REAL/"
         }
     ]
 }
