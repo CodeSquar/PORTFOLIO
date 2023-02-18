@@ -3,7 +3,8 @@
         {
             "title": "Voceo",
             "tag": "react, external api, css",
-            "image": "voceoApp.png"
+            "image": "voceoApp.png",
+            "url":"voceo-app-final-p3fs.vercel.app"
         },
         {
             "title": "POKEFIND",
